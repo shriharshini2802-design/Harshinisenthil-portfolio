@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Harshini'sPortfolio AI",
+  "description": "A sophisticated purple-themed personal portfolio featuring About, Qualification, Certifications, and Passion sections.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
